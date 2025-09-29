@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+.idea/
+.metadata
+/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java specific files
+*.class
+bin/
+
+# Android Studio Specific
+.gradle/
+local.properties
+/*.iml
+
+# VS Code
+.vscode/
